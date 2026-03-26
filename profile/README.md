@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" alt="Markdown" width="400">
+
 # Markdown
 
 Automating away the mundane tasks
