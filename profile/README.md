@@ -2,7 +2,7 @@
 
 # Markdown
 
-**[Insert tagline here]**
+Automating away the mundane tasks
 
 ---
 
