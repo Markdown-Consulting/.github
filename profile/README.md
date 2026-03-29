@@ -13,7 +13,7 @@ Automating away the mundane tasks
 
 ## Who We Are
 
-Markdown is an AI consulting firm built for the construction industry. We help teams identify, design, and implement intelligent automation — replacing the repetitive, manual workflows that slow projects down.
+Markdown is an AI consulting firm built for the construction industry. We help teams identify, design, and implement intelligent automation, thus replacing the repetitive, manual workflows that slow projects down.
 
 ## What We Do
 
@@ -25,7 +25,7 @@ We work at the intersection of AI and construction operations, focusing on two c
 
 ## Our Mission
 
-> [Insert mission statement here]
+Establish mutually beneficial relationships with customers. 
 
 ## How We Work
 
